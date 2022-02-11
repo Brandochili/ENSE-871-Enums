@@ -1,5 +1,5 @@
 # ENSE-871-Enums
-**Project description**
+**Project Description**
 
 **About Customer**
 
