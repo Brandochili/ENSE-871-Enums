@@ -10,6 +10,8 @@ The Saskatchewan Regional Centre of Expertise on Education for Sustainable Devel
 Education respects the autonomy and dignity of the learner. Education for sustainable development helps us work together to identify and pursue paths to sustainability, leading to improvements in quality of life while sustaining healthy ecosystems. They promote active environmental stewardship, social justice, and intergenerational equity.
 
 
+Current Focus :
+
 Activity #1 : Observe and Frame
 
 References:
