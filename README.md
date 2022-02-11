@@ -11,3 +11,6 @@ Education respects the autonomy and dignity of the learner. Education for sustai
 
 
 Activity #1 : Observe and Frame
+
+References:
+RCESask, & RogerPetry. (2022, January 26). Home. RCE Saskatchewan. Retrieved February 6, 2022, from https://saskrce.ca/ 
