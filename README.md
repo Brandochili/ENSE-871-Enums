@@ -19,13 +19,14 @@ Activity #1 : Observe and Frame
 
 Activity #2: Brainstorming/Divergence
 
-References:
+**References:**
 
 RCESask, & RogerPetry. (2022, January 26). Home. RCE Saskatchewan. Retrieved February 6, 2022, from https://saskrce.ca/ 
 
 World Leaders in Research-Based User Experience. (n.d.). UX training, consulting, &amp; research. Nielsen Norman Group. Retrieved March 13, 2022, from https://www.nngroup.com/ 
 
 **License**
+
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
