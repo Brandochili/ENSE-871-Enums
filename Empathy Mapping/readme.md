@@ -1,4 +1,5 @@
 Empathy Mapping: The First Step in Design Thinking
+
 Visualizing user attitudes and behaviors in an empathy map helps UX teams align on a deep understanding of end users. The mapping process also reveals any holes in existing user data.
 For more details on Empathy Mapping, please visit  [Empathy-Mapping](https://www.nngroup.com/articles/empathy-mapping/)
 
