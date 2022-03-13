@@ -1,4 +1,4 @@
-**Design Ideas linked to the proposed Low-Fidelity prototypes are as following:
+**Design Ideas linked to the proposed Low-Fidelity prototypes are as following:**
 
 Design_Ideas #1 are proposed/followed by Brandon Watson
 
