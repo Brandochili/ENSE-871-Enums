@@ -11,13 +11,15 @@ Education respects the autonomy and dignity of the learner. Education for sustai
 
 **Current Focus :**
 
-Activity #3: Brainstorming/Convergence
+Activity 4: Build & product delivery
 
 **Completed Activities:**
 
 Activity #1 : Observe and Frame
 
 Activity #2: Brainstorming/Divergence
+
+Activity #3: Brainstorming/Convergence
 
 **References:**
 
