@@ -1,6 +1,6 @@
 # Team-Enums
 
-# About Customer
+# About RCE
 
 RCE Saskatchewan  Website : [RCE-Saskatchewan](https://saskrce.ca/)
 
