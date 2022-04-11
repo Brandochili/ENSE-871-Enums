@@ -5,3 +5,7 @@ For more details on it, please visit [Low Fidelity vs. High Fidelity](https://ww
 High_Fidelity-Prototype #Desktop is the clickable prototype for desktop version.
 
 High_Fidelity-Prototype #Mobile is the clickable prototype for mobile version.
+
+RCE_Sask_Desktop-Prototype_Xd is Adobe XD file.
+
+RCE_Sask_Mobile-Prototype_Xd is Adobe XD file.
